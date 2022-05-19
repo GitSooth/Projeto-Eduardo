@@ -1,0 +1,4 @@
+﻿  Dados.c
+C:\Users\Joao\Desktop\Hmm\Dados.c(31,14): warning C4047: '=': 'PilotoPtr *' differs in levels of indirection from 'ListaPilotosPtr'
+C:\Users\Joao\Desktop\Hmm\Dados.c(49,18): warning C4047: '=': 'ListaPilotosPtr' differs in levels of indirection from 'PilotoPtr *'
+  Hmm.vcxproj -> C:\Users\Joao\Desktop\Hmm\x64\Debug\Hmm.exe
